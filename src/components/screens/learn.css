@@ -1,0 +1,113 @@
+.learn-container {
+    text-align: center;
+}
+
+.learn-containerChild {
+    display: inline-block;
+    text-align: left;
+    max-width: 680px;
+
+}
+.TitleFormat {
+    font-size: 40px;
+    font-weight: 400;
+    font-family: Charter,Georgia,serif;
+}
+
+.subTitleFormat {
+    margin-top: 2em;
+    font-size: 30px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    margin-bottom: -0.46em;
+    font-family: Charter,Georgia,serif;
+    font-weight: bold;
+}
+
+.subsubTitleFormat {
+    margin-top: 2em;
+    font-size: 25px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    margin-bottom: -0.46em;
+    font-family: Charter,Georgia,serif;
+    font-style: italic;
+}
+
+.subsubsubTitleFormat {
+    margin-top: 2em;
+    font-size: 23px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    margin-bottom: -0.46em;
+    font-family: Charter,Georgia,serif;
+    font-style: italic;
+}
+
+.learn-body {
+    margin-top: 2em;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    margin-bottom: -0.46em;
+    font-family: Charter,Georgia,serif;
+}
+
+.learn-body-no-bot {
+    margin-top: 2em;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    font-family: Charter,Georgia,serif;
+}
+
+.font {
+    font-family: Charter,Georgia,serif;
+}
+
+
+.learn-body-bold {
+    margin-top: 2em;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    margin-bottom: -0.46em;
+    font-family: Charter,Georgia,serif;
+    font-weight: bold;
+}
+
+.learn-body-step-bold {
+    margin-top: 1em;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: -0.003em;
+    margin-bottom:3em;
+    font-family: Charter,Georgia,serif;
+    font-weight: bold;
+}
+
+.learn-body-end {
+    margin-top: 5em;
+}
+
+.image1 {
+    max-width: 680px;
+}
+
+.image2 {
+    margin-top: 1em;
+    max-width: 680px;
+    max-height: 350px;
+}
+
+.imagebottom {
+    margin-top: 1em;
+    max-width: 680px;
+    max-height: 350px;
+    margin-bottom: 5em;
+}
+
+.button {
+    font-family: Charter,Georgia,serif;
+    border: 0;
+}
