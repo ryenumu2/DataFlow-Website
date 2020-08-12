@@ -1,6 +1,6 @@
 # DataFlow 
 
-#Features
+## Features
 
 -Learn how to tackle data structures, React, and other important programmer tools
 
