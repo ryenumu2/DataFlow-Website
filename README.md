@@ -6,4 +6,4 @@
 
 ![Alt Text](/Users/rohith/Downloads/dataflow1.gif)
 
-![Alt text](/DataFlow-Website/dataflow5.gif?raw=true "dataflow features")
+![](/DataFlow-Website/dataflow5.gif)
