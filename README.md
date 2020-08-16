@@ -7,3 +7,5 @@
 ![](/dataflow5.gif)
 
 - Users can sign-up, log-in, post, and favorite comments about their computer science progress
+
+![](/dataflow1.gif)
