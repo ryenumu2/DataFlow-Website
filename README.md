@@ -2,9 +2,11 @@
 
 ## Features
 
+<br />
 
 - Learn how to tackle data structures, React, and other important programmer tools
 
+<br />
 
 ![](/dataflow5.gif)
 
